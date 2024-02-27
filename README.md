@@ -4,7 +4,7 @@ Meuwly Group, University of Basel
 </p>
 
 # General
-The present repository provides access to two implementations of the PhysNet [1] codes (single (F32)- and double (F64)-precision), which can be used to learn molecular potential energy surfaces (PESs). The resulting single- and double-precision PESs were assessed in Reference [2]. The required installation and dependencies are outlined below and are followed by examples for training and using the neural network-based PES for H<sub>2</sub>CO. Therefore, the repository also contains the ab initio reference MP2/aug-cc-pVTZ level data for H2CO [3], as well as ready-to-use models [2].
+The present repository provides access to two implementations of the PhysNet [1] codes (single (F32)- and double (F64)-precision), which can be used to learn molecular potential energy surfaces (PESs). The resulting single- and double-precision PESs were assessed in Reference [2]. The required installation and dependencies are outlined below and are followed by examples for training and using the neural network-based PES for H<sub>2</sub>CO. Therefore, the repository also contains the ab initio reference MP2/aug-cc-pVTZ level data for H<sub>2</sub>CO [3], as well as ready-to-use models [2].
 
 
 # Installations & dependencies
