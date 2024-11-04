@@ -68,12 +68,12 @@ Oliver T. Unke and Markus Meuwly "PhysNet: A Neural Network for Predicting Energ
 Forces, Dipole Moments, and Partial Charges", J. Chem. Theory Comput., 2019,
 15, 6, 3678–3693
 
-#### For the H<sub>2</sub>CO dataset/PES
+#### For the H<sub>2</sub>CO dataset/PES:
 Silvan Käser, Debasish Koner, Anders S. Christensen, O. Anatole von Lilienfeld, and Markus Meuwly "Machine Learning Models of Vibrating H<sub>2</sub>CO: Comparing Reproducing Kernels, FCHL, and PhysNet"
 J. Phys. Chem. A 2020, 124(42), 8853-8865, DOI: 10.1021/acs.jpca.0c05979
 
-#### For the double-precision PES
-Silvan Käser and Markus Meuwly "Numerical Accuracy Matters: Applications of Machine Learned Potential Energy Surfaces", 2023, arXiv e-prints, DOI: 10.48550/arXiv.2311.17398
+#### For the double-precision PES:
+Silvan Käser and Markus Meuwly "Numerical Accuracy Matters: Applications of Machine Learned Potential Energy Surfaces", J. Phys. Chem. Lett., 2024, 15(12), 3419-3424 
 
 # References
 
